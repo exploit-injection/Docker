@@ -1,4 +1,3 @@
-
 FROM almalinux
 COPY test_sc.sh .
 RUN chmod ugo+x test_sc.sh
