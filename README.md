@@ -13,7 +13,7 @@
 
 ### Ассемблерные вставки
 
-[Лабораторная работа 2](https://github.com/exploit-injection/Docker/tree/main/lab%203) 
+[Лабораторная работа 2](https://github.com/exploit-injection/Docker/tree/main/lab2) 
 
 В данной работе был подготовлен Dockerfile, в котором осуществляется виртуализация операционной системы Linux Ubuntu.
 
